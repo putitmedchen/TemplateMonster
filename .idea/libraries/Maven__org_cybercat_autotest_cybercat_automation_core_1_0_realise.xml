@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.cybercat.autotest:cybercat-automation-core:1.0-realise">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/cybercat/autotest/cybercat-automation-core/1.0-realise/cybercat-automation-core-1.0-realise.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/cybercat/autotest/cybercat-automation-core/1.0-realise/cybercat-automation-core-1.0-realise-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/cybercat/autotest/cybercat-automation-core/1.0-realise/cybercat-automation-core-1.0-realise-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
